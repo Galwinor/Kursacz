@@ -140,6 +140,7 @@ namespace CppCLRWinFormsProject {
 
 	System::Void Form1::Form1_Load(System::Object^ sender, System::EventArgs^ e) {
 		textBox11->Text = "10"; // Значення за замовчуванням
+		textBox11->Enabled = false;
 	}
 
 	System::Void Form1::Read_Click(System::Object^ sender, System::EventArgs^ e) {
@@ -150,5 +151,9 @@ namespace CppCLRWinFormsProject {
 		ofstream File("Results.txt", ios::binary);
 		File.close();
 		MessageBox::Show("File is empty now!");
+	}
+
+	System::Void Form1::radioButton1_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
+		textBox11->Enabled = !textBox11->Enabled;
 	}
 }

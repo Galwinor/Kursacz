@@ -1,4 +1,4 @@
 ﻿  Form1.cpp
-C:\Users\romty\source\repos\8-puzzle\8-puzzle\Form1.cpp(103,113): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  8-puzzle.vcxproj -> C:\Users\romty\source\repos\8-puzzle\x64\Debug\8-puzzle.exe
+C:\Roma\C++\KPI Kursacz\Kursacz\8-puzzle\8-puzzle\Form1.cpp(103,26): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  AssemblyInfo.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  8-puzzle.vcxproj -> C:\Roma\C++\KPI Kursacz\Kursacz\8-puzzle\x64\Debug\8-puzzle.exe

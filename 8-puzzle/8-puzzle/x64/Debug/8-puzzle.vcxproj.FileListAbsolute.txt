@@ -2,3 +2,7 @@ C:\Users\romty\source\repos\8-puzzle\8-puzzle\x64\Debug\8-puzzle.vcxproj.Assembl
 C:\Users\romty\source\repos\8-puzzle\8-puzzle\x64\Debug\8-puzzle.vcxproj.SuggestedBindingRedirects.cache
 C:\Users\romty\source\repos\8-puzzle\8-puzzle\x64\Debug\_8_puzzle.Form1.resources
 C:\Users\romty\source\repos\8-puzzle\8-puzzle\x64\Debug\8-puzzle.vcxproj.GenerateResource.cache
+C:\Roma\C++\KPI Kursacz\Kursacz\8-puzzle\8-puzzle\x64\Debug\8-puzzle.vcxproj.AssemblyReference.cache
+C:\Roma\C++\KPI Kursacz\Kursacz\8-puzzle\8-puzzle\x64\Debug\8-puzzle.vcxproj.SuggestedBindingRedirects.cache
+C:\Roma\C++\KPI Kursacz\Kursacz\8-puzzle\8-puzzle\x64\Debug\_8_puzzle.Form1.resources
+C:\Roma\C++\KPI Kursacz\Kursacz\8-puzzle\8-puzzle\x64\Debug\8-puzzle.vcxproj.GenerateResource.cache
